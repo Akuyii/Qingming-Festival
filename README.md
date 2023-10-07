@@ -4,19 +4,39 @@ This "Along the River During Qingming Festival" experience based on virtual real
 
 ## Keywords
 Human-computer interaction, VR, Unity, education, application, Chinese traditional culture
-![QingmingFestival01](https://github.com/Akuyii/Qingming-Festival/assets/103294773/609214bd-ceba-4f23-9cbe-81dd903b000a)
+<p align="center">
+  <img src ="https://github.com/Akuyii/Qingming-Festival/assets/103294773/609214bd-ceba-4f23-9cbe-81dd903b000a" style="width: 700px"; alt="Sublime's custom"/>
+<p>
+<p align="center">
+Fig. 1.	Screenshot of project running 01
+<p>
 
 ### I.3D environment reconstruction
 This experience uses the Unity engine and virtual reality technology to present the scenes and elements in "Along the River During the Qingming Festival" in a realistic way through 3D modeling and environment reconstruction technology. Through accurate modeling and mapping, users can immerse themselves in a realistic ancient urban environment. This requires a high level of three-dimensional modeling technology and artistic design to restore the details and atmosphere in the paintings.
-![QingmingFestival04](https://github.com/Akuyii/Qingming-Festival/assets/103294773/e8c1f801-5149-43cc-8247-147078393bf9)
+<p align="center">
+  <img src ="https://github.com/Akuyii/Qingming-Festival/assets/103294773/e8c1f801-5149-43cc-8247-147078393bf9" style="width: 700px"; alt="Sublime's custom"/>
+<p>
+<p align="center">
+Fig. 2.	Screenshot of project running 02
+<p>
 
 ### II.Interaction and free exploration
 Based on virtual reality technology, the experience of "Along the River During Qingming Festival" is not only a static viewing, but also provides interactive and free exploration functions. Users can interact with the virtual environment through VR helmets and handles, and freely move around, observe and interact with virtual NPCs. This interactivity enhances the user's sense of participation and immersion, allowing users to experience the life and culture of ancient society more deeply.
-![image](https://github.com/Akuyii/Qingming-Festival/assets/103294773/b9caab70-cb77-4d9c-bd2b-e77f08d85a7a)
+<p align="center">
+  <img src ="https://github.com/Akuyii/Qingming-Festival/assets/103294773/b9caab70-cb77-4d9c-bd2b-e77f08d85a7a" style="width: 700px"; alt="Sublime's custom"/>
+<p>
+<p align="center">
+Fig. 3.	Screenshot of project running 03
+<p>
 
 ### III.Virtual NPCs and mini-games
 Virtual NPCs and mini-games in the experience are important elements that add fun and entertainment. Users can talk and interact with virtual NPCs and experience various characters in ancient market life. At the same time, mini-games and challenges can make users more engaged, such as earning rewards by completing tasks or solving puzzles. These functions make use of virtual reality and interactive technologies to provide users with richer and more diverse experience content.
-![QingmingFestival03](https://github.com/Akuyii/Qingming-Festival/assets/103294773/ba505d5b-8a18-4f0e-98dd-3a72f15cda93)
+<p align="center">
+  <img src ="https://github.com/Akuyii/Qingming-Festival/assets/103294773/ba505d5b-8a18-4f0e-98dd-3a72f15cda93" style="width: 700px"; alt="Sublime's custom"/>
+<p>
+<p align="center">
+Fig. 4.	Screenshot of project running 04
+<p>
 
 ## Precautions
 ### I.equipment
